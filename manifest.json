@@ -1,0 +1,40 @@
+{
+  "name": "Meu Mercado",
+  "short_name": "Meu Mercado",
+  "description": "Lista de compras e controle do cartão alimentação.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfaf5",
+  "theme_color": "#2f8f68",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Adicionar por voz",
+      "short_name": "Voz",
+      "description": "Adicionar um produto à lista de compras falando",
+      "url": "./?acao=voz",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

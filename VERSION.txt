@@ -1,0 +1,4 @@
+MEU MERCADO V48.3-GITHUB
+Repositório: meu-mercado
+GitHub Pages + Firebase + IA via Cloudflare Worker
+2026-09-29
